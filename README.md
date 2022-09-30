@@ -14,9 +14,9 @@ This is the telegram version of turkorat and it is beta, please let me know abou
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/cryst4linqq/TurkoRat?style=flat">
-<img src="https://img.shields.io/github/stars/cryst4linqq/TurkoRat?color=brightgreen">
-<img src="https://img.shields.io/github/forks/cryst4linqq/TurkoRat?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/cryst4linqq/TurkoRat-TELEGRAM?style=flat">
+<img src="https://img.shields.io/github/stars/cryst4linqq/TurkoRat-TELEGRAM?color=brightgreen">
+<img src="https://img.shields.io/github/forks/cryst4linqq/TurkoRat-TELEGRAM?color=brightgreen">
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ This is the telegram version of turkorat and it is beta, please let me know abou
 
 ### 📸 〢 Screenshots
 
-<img title="" src="https://github.com/AliTefeli02/TurkoRat/blob/main/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/AliTefeli02/TurkoRat/blob/main/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/AliTefeli02/TurkoRat/blob/main/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439">
+<img title="" src="https://github.com/cryst4linqq/TurkoRat-TELEGRAM/blob/main/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/cryst4linqq/TurkoRat-TELEGRAM/blob/main/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/cryst4linqq/TurkoRat-TELEGRAM/blob/main/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439">
 
 <a id="todo"></a>
 
